@@ -1,0 +1,32 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!--<style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">-->
+        <!--<item name="tabIndicatorColor">#ffffff</item>-->
+        <!--<item name="tabMaxWidth">@dimen/tab_max_width</item>-->
+        <!--<item name="tabIndicatorHeight">2dp</item>-->
+        <!--<item name="tabPaddingStart">12dp</item>-->
+        <!--<item name="tabPaddingEnd">12dp</item>-->
+        <!--<item name="tabBackground">?attr/selectableItemBackground</item>-->
+        <!--<item name="tabSelectedTextColor">?android:textColorPrimary</item>-->
+        <!--<item name="tabTextAppearance">@style/MyCustomTextAppearance</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="MyCustomTextAppearance" parent="TextAppearance.Design.Tab">-->
+        <!--<item name="textAllCaps">false</item>-->
+    <!--</style>-->
+
+</resources>
